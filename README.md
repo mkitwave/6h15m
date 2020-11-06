@@ -7,7 +7,8 @@
 - MySQL + OracleDB
 
 #### WEB (๑•̀ㅂ•́)و
-- HTML5 + css + JavaScript
+- HTML5 + CSS
+- JavaScript + TypeScript
 - JQuery
 - JSP + Spring
 
