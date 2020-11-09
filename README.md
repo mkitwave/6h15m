@@ -8,7 +8,7 @@
 
 #### WEB (๑•̀ㅂ•́)و
 - HTML5 + CSS
-- JavaScript + TypeScript
+- JavaScript
 - JQuery
 - JSP + Spring
 
