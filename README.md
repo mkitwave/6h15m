@@ -9,8 +9,8 @@
 　／￣|　　 |　|　|  
  &nbsp;|&nbsp;&nbsp;&nbsp;(￣ヽ _ &nbsp;&nbsp;ヽ _ )_ _)  
   ＼二つ  
-
-### 👩‍💻 My develop skills
+❥ ‑‑‑‑ ‑ ‑ ‑ ‑ ‑ ‑ ‑ ‑ ‑ ‑ ‑ ‑ ‑ ‑ ‑
+## ↳ 👩‍💻 My develop skills ｡˚✩
 
 #### MAIN (｡･∀･)ﾉﾞ
 - JAVA
@@ -29,4 +29,7 @@
 
 #### GAME ( •̀ .̫ •́ )
 - Unity(C#)
+❥ ‑‑‑‑ ‑ ‑ ‑ ‑ ‑ ‑ ‑ ‑ ‑ ‑ ‑ ‑ ‑ ‑ ‑
+
+
 
