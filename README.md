@@ -4,11 +4,11 @@
 　　　　　| 　_　 _ l  
 　 　　　／` ミ＿Yノ  
 　　 　 /　　　 　 |  
-　　　 /　 ヽ　　 ﾉ &nbsp;&nbsp;&nbsp;&nbsp; _ ,,.,,,_
-　 　 │　　|　|　| &nbsp;&nbsp;&nbsp;&nbsp; (:(　　　..)
-　／￣|　　 |　|　| &nbsp;&nbsp;&nbsp;&nbsp; |:|・ω・ |
- &nbsp;|&nbsp;&nbsp;&nbsp;(￣ヽ _ &nbsp;&nbsp;ヽ _ )_ _) &nbsp;&nbsp;&nbsp;&nbsp; |:|　　　|
-&nbsp;  ＼二つ &nbsp;&nbsp;&nbsp;&nbsp; `''ｰ---‐´
+　　　 /　 ヽ　　 ﾉ 
+　 　 │　　|　|　| 
+　／￣|　　 |　|　| 
+ &nbsp;|&nbsp;&nbsp;&nbsp;(￣ヽ _ &nbsp;&nbsp;ヽ _ )_ _) 
+&nbsp;  ＼二つ
   
 
 ## ↳ 👩‍💻 My develop skills ｡˚✩
