@@ -7,7 +7,7 @@
 　　　 /　 ヽ　　 ﾉ  
 　 　 │　　|　|　|  
 　／￣|　　 |　|　|  
- |&nbsp;&nbsp;&nbsp;(￣ヽ _ _ヽ _ )_ _)  
+ &nbsp;|&nbsp;&nbsp;&nbsp;(￣ヽ _ _ヽ _ )_ _)  
   ＼二つ  
 
 ### 👩‍💻 My develop skills
