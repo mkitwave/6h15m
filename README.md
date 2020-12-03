@@ -16,12 +16,13 @@
 #### MAIN (｡･∀･)ﾉﾞ
 - JAVA
 - Python
-- MySQL + OracleDB
+- C
 
 #### WEB (๑•̀ㅂ•́)و
 - HTML5 + CSS
 - JavaScript
 - JQuery
+- Bootstrap
 - JSP + Spring
 
 #### APP (╯▽╰ )
@@ -31,5 +32,4 @@
 #### GAME ( •̀ .̫ •́ )
 - Unity(C#)  
 - Ren'py
-
 
