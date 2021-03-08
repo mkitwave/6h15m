@@ -11,7 +11,7 @@
 &nbsp;  ＼二つ  
   
 
-## ↳ 👩‍💻 My develop skills ｡˚✩
+## ↳ 👩‍💻 My develop & design skills ｡˚✩
 
 #### MAIN (｡･∀･)ﾉﾞ
 - JAVA
@@ -33,3 +33,9 @@
 - Unity(C#)  
 - Ren'py
 
+
+#### Design
+- Adobe XD, Photoshop, illustrator
+
+#### Other Skills
+- Premiere
