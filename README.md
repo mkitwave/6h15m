@@ -11,31 +11,6 @@
 &nbsp;  ＼二つ  
   
 
-## ↳ 👩‍💻 My develop & design skills ｡˚✩
+## ↳ My Develop Diary ｡˚✩
 
-#### MAIN (｡･∀･)ﾉﾞ
-- JAVA
-- Python
-- C
-
-#### WEB (๑•̀ㅂ•́)و
-- HTML5 + CSS
-- JavaScript
-- JQuery
-- Bootstrap
-- JSP + Spring
-
-#### APP (╯▽╰ )
-- Flutter
-- Kotlin
-
-#### GAME ( •̀ .̫ •́ )
-- Unity(C#)  
-- Ren'py
-
-
-#### Design
-- Adobe XD, Photoshop, illustrator
-
-#### Other Skills
-- Premiere
+#### https://6h15m.tistory.com/ 
