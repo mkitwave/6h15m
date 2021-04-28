@@ -1,4 +1,4 @@
-## Hello! 🐹 I'm developer Yeseo Lee! 
+## Hello! I'm developer Yeseo Lee 🌊
 
  　　　　　／＞　　フ  
 　　　　　| 　_　 _ l  
