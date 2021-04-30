@@ -1,4 +1,4 @@
-## Hello! I'm Yeseo Lee 🌊
+## Yeseo is ABSOLUTELY FULLY CAPABLE 🌊
 
  　　　　　／＞　　フ  
 　　　　　| 　_　 _ l  
