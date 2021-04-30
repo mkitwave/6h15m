@@ -1,6 +1,6 @@
 # Yeseo is ABSOLUTELY FULLY CAPABLE 🌊
 
-  {% include util.html id="Lod5NQzw6P0" %} 
+  {% include util.html id="Lod5NQzw6P0" %}
 
 ## My Develop Diary ｡˚✩
 
