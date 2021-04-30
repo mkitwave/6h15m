@@ -1,15 +1,6 @@
 # Yeseo is ABSOLUTELY FULLY CAPABLE 🌊
 
- 　　　　　／＞　　フ  
-　　　　　| 　_　 _ l  
-　 　　　／` ミ＿Yノ  
-　　 　 /　　　 　 |  
-　　　 /　 ヽ　　 ﾉ   
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; │　　|　|　|   
-　／￣|　　 |　|　|  
- &nbsp;|&nbsp;&nbsp;&nbsp;(￣ヽ _ &nbsp;&nbsp;ヽ _ )_ _)   
-&nbsp;  ＼二つ  
-  
+  {% include util.html id="Lod5NQzw6P0" %} 
 
 ## My Develop Diary ｡˚✩
 
