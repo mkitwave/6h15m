@@ -1,4 +1,4 @@
-## Hello! I'm developer Yeseo Lee 🌊
+## Hello! I'm Yeseo Lee 🌊
 
  　　　　　／＞　　フ  
 　　　　　| 　_　 _ l  
@@ -11,6 +11,6 @@
 &nbsp;  ＼二つ  
   
 
-## ↳ My Develop Diary ｡˚✩
+## My Develop Diary ｡˚✩
 
 #### https://6h15m.tistory.com/ 
