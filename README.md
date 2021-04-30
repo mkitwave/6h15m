@@ -39,4 +39,6 @@
 
 <br><br>
 
-[![6h15m's GitHub stats](https://github-readme-stats.vercel.app/api?username=6h15m&hide=stars,prs,issues,contribs&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=6h15m&hide=stars,prs,issues,contribs&count_private=true&show_icons=true&icon_color=fff&bg_color=60,163aa0,1b1464,14162b&title_color=fff&text_color=fff" />
+</a>
