@@ -10,11 +10,23 @@
 <span><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/React-61dafb?style=flat-square&logo=react&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/></span>
 - Back-end : 
-<span><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=MySQL&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></span><br/>
+<span><img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></span>
+- etc. :
+<span><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></span>
 - Design :
-<span><img src="https://img.shields.io/badge/Figma-f24e1e?style=flat-square&logo=figma&logoColor=white"/></span><br/>
+<span><img src="https://img.shields.io/badge/XD-FF61F6?style=flat-square&logo=AdobeXD&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=AdobePhotoshop&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=AdobeIllustrator&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Premiere-9999FF?style=flat-square&logo=AdobePremierePro&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Figma-f24e1e?style=flat-square&logo=figma&logoColor=white"/></span>
 
-## ▎🛫 Social
+## ▎📚 Blog For Learning
+- ### https://6h15m.github.io/
