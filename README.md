@@ -1,6 +1,6 @@
 # ▎Hi there 👀 <br>▎한계를 뛰어넘는 개발자, <br>▎이예서입니다!
 
-![snake gif](https://github.com/6h15m/6h15m/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/6h15m/6h15m/blob/output/github-contribution-grid-snake.svg)
 
 ![github-readme-stats](https://github-readme-stats.vercel.app/api?username=6h15m&hide=stars,issues&count_private=true&show_icons=true&icon_color=fff&bg_color=1b1464&title_color=fff&text_color=fff&hide_border=true&include_all_commits=true&line_height=30)
 ![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6h15m&layout=compact&bg_color=1b1464&title_color=fff&text_color=fff&hide_border=true&hide=python,ren'py,tex)
