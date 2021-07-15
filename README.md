@@ -5,7 +5,7 @@
 ![github-readme-stats](https://github-readme-stats.vercel.app/api?username=6h15m&hide=stars,issues&count_private=true&show_icons=true&icon_color=fff&bg_color=161b22&title_color=fff&text_color=fff&hide_border=true&include_all_commits=true&line_height=30)
 ![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6h15m&layout=compact&bg_color=161b22&title_color=fff&text_color=fff&hide_border=true&hide=python,ren'py,tex)
 
-## ▎🛠 Tech Stacks
+## ▎🛠 Tech Stacks!
 - Front-end : 
 <span><img src="https://img.shields.io/badge/HTML-e34f26?style=flat-square&logo=html5&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/CSS-1572b6?style=flat-square&logo=css3&logoColor=white"/></span>
@@ -29,5 +29,5 @@
 <span><img src="https://img.shields.io/badge/Premiere-9999FF?style=flat-square&logo=AdobePremierePro&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Figma-f24e1e?style=flat-square&logo=figma&logoColor=white"/></span>
 
-## ▎📚 Blog For Learning
+## ▎📚 Blog For Learning!
 - ### https://6h15m.github.io/
