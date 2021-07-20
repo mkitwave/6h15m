@@ -1,11 +1,11 @@
-# ▎Hi there 👀 <br>▎한계를 뛰어넘는 개발자, <br>▎이예서입니다!
+<!-- # ▎Hi there 👀 <br>▎한계를 뛰어넘는 개발자, <br>▎이예서입니다! -->
 
 ![github-readme-stats](https://github-readme-stats.vercel.app/api?username=6h15m&hide=stars,issues&count_private=true&show_icons=true&icon_color=fff&bg_color=161b22&title_color=fff&text_color=fff&hide_border=true&include_all_commits=true&line_height=30)
 ![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6h15m&layout=compact&bg_color=161b22&title_color=fff&text_color=fff&hide_border=true&hide=python,ren'py,tex)
 
 ![snake gif](https://github.com/6h15m/6h15m/blob/output/github-contribution-grid-snake.svg)
 
-## ▎🛠 Tech Stacks!
+<!-- ## ▎🛠 Tech Stacks!
 - Front-end : 
 <span><img src="https://img.shields.io/badge/HTML-e34f26?style=flat-square&logo=html5&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/CSS-1572b6?style=flat-square&logo=css3&logoColor=white"/></span>
@@ -33,4 +33,4 @@
 - ### https://6h15m.github.io/
 
 ## ▎👩‍💻 My Notion!
-- ### https://bit.ly/wavylog
+- ### https://bit.ly/wavylog -->
