@@ -31,3 +31,6 @@
 
 ## ▎📚 Blog For Learning!
 - ### https://6h15m.github.io/
+
+## ▎👩‍💻 My Notion!
+- ### https://bit.ly/wavylog
