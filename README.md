@@ -1,1 +1,1 @@
-[![Zero LOG](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F00d0d8c8-1f0d-4ebf-b657-e7a34b469b3e%2F3411%EC%9D%B4%EC%98%88%EC%84%9C_%EC%A0%9C%EB%A1%9C_%ED%82%A4%EB%A7%81%EC%9B%90%ED%98%95.png?table=block&id=5bbd0703-3807-46cc-95ef-7161de721cc3&spaceId=552c2f1d-b418-482f-ba8c-1e22a864a132&width=250&userId=8e7939b7-3c81-4423-8e27-9edb2156ec90&cache=v2)](https://www.notion.so/6h15m/5bbd0703380746cc95ef7161de721cc3)
+[𝗠𝘆 𝗡𝗼𝘁𝗶𝗼𝗻](https://www.notion.so/6h15m/5bbd0703380746cc95ef7161de721cc3)
